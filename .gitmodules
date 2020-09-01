@@ -7,3 +7,8 @@
 [submodule "portal-invoicing"]
 	path = portal-invoicing
 	url = git@github.com:xmarts/portal-invoicing.git
+
+[submodule "xmarts/pos-custom-folio-field"]
+	path = xmarts/pos-custom-folio-field
+	url = git@github.com:xmarts/pos-custom-folio-field.git
+	branch = 13.0
