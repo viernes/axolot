@@ -1,0 +1,3 @@
+[submodule "l10n-einvoice-mx-serv"]
+	path = l10n-einvoice-mx-serv
+	url = git@github.com:xmarts/l10n-einvoice-mx-serv.git
